@@ -1,0 +1,19 @@
+#carousel {
+  margin-top: 30px;
+}
+
+.brand_offer_banner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 270px;
+}
+
+.poster {
+  width: 100%;
+  margin-top: 5px;
+}
+
+.poster img {
+  width: 100%;
+}
